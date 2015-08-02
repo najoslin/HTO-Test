@@ -10,7 +10,7 @@ var imgArray = [
 	"images/well1280.jpg", 
 	"images/reiki1280.jpg", 
 	"images/chiro1280.jpg", 
-	"images/cs1280.jpg",
+	"images/cranio1280.jpg",
 	"images/spa-herbs1280.jpg",
 	],
     curIndex = 0;
