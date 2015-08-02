@@ -5,11 +5,13 @@
 	}
 	
 header{
-width:100%;
+width:98.75%;
 height: 100px;
 background-color: beige;
 border: 1px solid #cdc673;
 position: fixed;
+top:0;
+z-index: 1;
 	}
 
 header img{
@@ -36,10 +38,9 @@ nav {
 	font-size: 18px;
 	font-weight: bold;
 	width: 700px;
-	margin-top: -57px;
+	margin-top: -70px;
 	margin-bottom: 0px;
 	margin-right: 10px;
-
 	}
 
 nav a {
@@ -62,19 +63,19 @@ nav li {
 	float: left;
 	display: inline-block; 
 	padding: 10px; 
+	margin-right: 20px;
 	}
 
 	
 body{
 	background-color: #f9fff9;
 	height:100%;
-
 	}
 
 		
 #slider {
 	width: 100%;
-	margin-top: -30px;
+	margin-top:100px;
 	border: 1px solid black;
     opacity:1;
     transition: opacity 9s; 
@@ -157,8 +158,9 @@ font-size: 20px;
 	
 footer{
 	display: inline-block;
-	width: 100%;
+	width: 98.75%;
 	bottom:0;
+	margin-left: 1px;
 	background-color: beige;
 	}
 	
@@ -190,7 +192,7 @@ footer{
 	display: inline;
 	}
 	
-footer a{
+#footer a{
 	text-decoration: none;
 	}
 	

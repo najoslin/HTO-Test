@@ -9,7 +9,6 @@
 
 <body>
 	<div><?php include ("includes/header.php"); ?></div>
-	<div><?php include ("includes/navbar.php"); ?></div>
 	<div><?php include ("includes/header_full.php"); ?></div>
 	<div><?php include ("includes/main_content.php"); ?></div>	
 	
