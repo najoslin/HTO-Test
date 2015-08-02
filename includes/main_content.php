@@ -4,7 +4,7 @@
 	<p> Millions of people use Complementary and Alternative Medicine to find natural relief from a wide range of conditions.&nbsp
 	Even doctors and nurses use natural healing alternatives to relief some conditions.  &nbspThe problem is that it can be 
 	very hard to find the right practitioner to help you get the relief you're looking for.  &nbspPractitioners
-	frequently have the same problem - it's hard to connect with the people they are best able to help.  
+	have the same problem - it's hard to connect with the people they are best able to help.  
 	<br>
 	<br>
 	Heal the Onion LLC is in the process of developing the solution.  &nbspA place where its easy to find the best practitioners in your area 
