@@ -75,10 +75,10 @@ body{
 		
 #slider {
 	width: 100%;
-	margin-top:100px;
+	margin-top:105px;
 	border: 1px solid black;
     opacity:1;
-    transition: opacity 9s; 
+    transition: opacity 1s; 
 }
 
 #slider.fadeOut {

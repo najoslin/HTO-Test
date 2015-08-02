@@ -1,6 +1,7 @@
 
 <body>
-<img id="slider" src=""/>
+<div>
+<img id="slider" src="images/wellness-yoga1280.jpg"/>
 <script>
 var imgArray = [
 	"images/wellness-yoga1280.jpg",
@@ -9,18 +10,18 @@ var imgArray = [
 	"images/well1280.jpg", 
 	"images/reiki1280.jpg", 
 	"images/chiro1280.jpg", 
-	"images/cranio1280.jpg",
+	"images/cs1280.jpg",
 	"images/spa-herbs1280.jpg",
 	],
     curIndex = 0;
-    imgDuration = 9000;
+    imgDuration = 6000;
 
 function slideShow() {
     document.getElementById('slider').className += "fadeOut";
     setTimeout(function() {
         document.getElementById('slider').src = imgArray[curIndex];
         document.getElementById('slider').className = "";
-    },1000);
+    },1200);
     curIndex++;
     if (curIndex == imgArray.length) { curIndex = 0; }
     setTimeout(slideShow, imgDuration);
@@ -39,6 +40,8 @@ slideShow();
    </form>
 </div>
 			<div id="front-text">
-				<h3>Over a third of people in the US use Complementary and Alternative Medicine for wellness or relief from chronic pain (including many traditional medical professionals) - why not find your relief today?</h3>
+				<h3>Over a third of people in the United States use Complementary and Alternative Medicine for wellness or relief from chronic pain (including many traditional medical professionals) - why not find your relief today?</h3>
 			</div>
+</div>
+
 </body>
