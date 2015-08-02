@@ -14,14 +14,14 @@ var imgArray = [
 	"images/spa-herbs1280.jpg",
 	],
     curIndex = 0;
-    imgDuration = 6000;
+    imgDuration = 8000;
 
 function slideShow() {
     document.getElementById('slider').className += "fadeOut";
     setTimeout(function() {
         document.getElementById('slider').src = imgArray[curIndex];
         document.getElementById('slider').className = "";
-    },1200);
+    },3000);
     curIndex++;
     if (curIndex == imgArray.length) { curIndex = 0; }
     setTimeout(slideShow, imgDuration);
