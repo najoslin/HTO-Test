@@ -14,7 +14,7 @@ var imgArray = [
 	"images/spa-herbs1280.jpg",
 	],
     curIndex = 0;
-    imgDuration = 8000;
+    imgDuration = 10000;
 
 function slideShow() {
     document.getElementById('slider').className += "fadeOut";

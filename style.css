@@ -78,7 +78,7 @@ body{
 	margin-top:105px;
 	border: 1px solid black;
     opacity:1;
-    transition: opacity 1s; 
+    transition: opacity 2s; 
 }
 
 #slider.fadeOut {
