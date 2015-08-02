@@ -19,7 +19,7 @@
 				<img src="images/twitter-icon.jpg" height="20" width="20"></a></li>
 				<!-- This is just a placeholder link -->
 			<li><a href="http://www.google.com">
-				<img src="images/g+-icon.jpg" height="20" width="20"></a></li>
+				<img src="images/g-icon.jpg" height="20" width="20"></a></li>
 			</ul>
 	</div>
 	
